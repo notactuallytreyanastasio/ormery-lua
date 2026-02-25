@@ -14,5 +14,5 @@ dependencies = {
     'std == 0.6.0',
 }
 source = {
-    url = 'file:///Users/robertgrayson/code/ormery/temper.out/lua/ormery/ormery.zip',
+    url = 'file:///home/runner/work/ormery/ormery/temper.out/lua/ormery/ormery.zip',
 }
